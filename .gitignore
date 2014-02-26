@@ -1,0 +1,14 @@
+
+*.sln
+
+SongMeaningsScraper/SongMeaningsScraper.userprefs
+
+SongMeaningsScraper/SongMeaningsScraper/SongMeaningsScraper.csproj
+
+*.exe
+
+SongMeaningsScraper/SongMeaningsScraper/bin/Debug/SongMeaningsScraper.exe.mdb
+
+SongMeaningsScraper/SongMeaningsScraper/obj/x86/Debug/SongMeaningsScraper.csproj.FilesWrittenAbsolute.txt
+
+SongMeaningsScraper/SongMeaningsScraper/obj/x86/Debug/SongMeaningsScraper.exe.mdb
